@@ -1,3 +1,25 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer base {
+    @font-face {
+        font-family: Avenir Next;
+        font-weight: auto;
+        src: url(assets/fonts/AvenirNextLTPro-Regular.otf) format("truetype");
+    }
+    @font-face {
+        font-family: Avenir Next;
+        src: url(assets/fonts/AvenirNextLTPro-It.otf) format("truetype");
+    }
+    @font-face {
+        font-family: Avenir Next;
+        font-weight: bold;
+        src: url(assets/fonts/AvenirNextLTPro-Bold.otf) format("truetype");
+    }
+    @font-face {
+        font-family: Architects Daughter;
+        font-weight: auto;
+        src: url(assets/fonts/ArchitectsDaughter-Regular.ttf) format("truetype");
+    }
+}

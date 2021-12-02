@@ -803,6 +803,32 @@ module.exports = {
       40: '40',
       50: '50',
     },
+    extend: {
+      backgroundImage: {
+        'moonship-art': "url(assets/moonship.png)"
+      },
+      colors: {
+        'herodao-red': '#CE2033'
+      },
+      fontFamily: {
+        'avenir': ['Avenir Next'],
+        'architects-daughter': ['Architects Daughter']
+      },
+      spacing: {
+        6.5: '1.63rem',
+        68: '17rem',
+        98: '26rem',
+        100: '28rem',
+        102: '30rem',
+        104: '32rem',
+        105: '33rem',
+        106: '34rem',
+        107: '35rem',
+        108: '36rem',
+        109: '37rem',
+        110: '38rem',
+      }
+    },
   },
   variantOrder: [
     'first',
