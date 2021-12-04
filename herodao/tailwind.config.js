@@ -812,7 +812,8 @@ module.exports = {
       },
       fontFamily: {
         'avenir': ['Avenir Next'],
-        'architects-daughter': ['Architects Daughter']
+        'architects-daughter': ['Architects Daughter'],
+        'aAhaWow': ['aAhaWow']
       },
       spacing: {
         6.5: '1.63rem',
@@ -827,6 +828,22 @@ module.exports = {
         108: '36rem',
         109: '37rem',
         110: '38rem',
+        111: '39rem',
+        112: '40rem',
+        113: '41rem',
+        114: '42rem',
+        115: '43rem',
+        116: '44rem',
+        117: '45rem',
+        118: '46rem',
+        119: '47rem',
+        120: '48rem',
+        121: '49rem',
+        122: '50rem',
+        123: '51rem',
+        124: '52rem',
+        125: '53rem',
+        126: '54rem',
       }
     },
   },

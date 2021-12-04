@@ -10,16 +10,27 @@
     }
     @font-face {
         font-family: Avenir Next;
+        font-weight: auto;
         src: url(assets/fonts/AvenirNextLTPro-It.otf) format("truetype");
     }
     @font-face {
         font-family: Avenir Next;
-        font-weight: bold;
+        font-weight: auto;
         src: url(assets/fonts/AvenirNextLTPro-Bold.otf) format("truetype");
     }
     @font-face {
         font-family: Architects Daughter;
         font-weight: auto;
         src: url(assets/fonts/ArchitectsDaughter-Regular.ttf) format("truetype");
+    }
+    @font-face {
+        font-family: aAhaWow;
+        font-weight: auto;
+        src: url(assets/fonts/aAhaWow.otf) format("truetype");
+    }
+    @font-face {
+        font-family: aAhaWow;
+        font-weight: auto;
+        src: url(assets/fonts/aAhaWow.ttf) format("truetype");
     }
 }
