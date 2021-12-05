@@ -1,5 +1,5 @@
 <template>
-  <div class="bg-green-100 sm:h-112 h-80">
+  <div class="sm:h-112 md:h-112 h-72">
     <div class="flex flex-row justify-evenly">
     <div class="flex flex-col sm:pt-24 pt-8 sm:space-y-4 space-y-2">
       <div class="flex justify-center">
@@ -14,7 +14,7 @@
       </div>
     </div>
     <div class="flex flex-col sm:space-y-4 space-y-2 justify-center">
-      <div class="flex font-aAhaWow sm:text-4xl sm:pt-8 text-lg justify-center">Goals</div>
+      <div class="flex font-aAhaWow sm:text-4xl sm:pt-8 md:pt-4 text-lg justify-center">Goals</div>
       <div class="flex justify-center">
         <img class="flex sm:h-28 h-12" src="@/assets/pickhero.svg">
       </div>
