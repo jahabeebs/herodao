@@ -1,7 +1,7 @@
 <template>
   <div class="flex bg-herodao-gold">
     <div class="flex flex-row space-x-4 md:space-x-16 sm:space-x-28">
-      <div class="sm:ml-56 md:ml-80 ml-4 mt-4 md:mt-4 sm:mt-10 space-y-2">
+      <div class="sm:ml-56 md:ml-16 ml-4 mt-4 md:mt-4 sm:mt-10 space-y-2">
         <div class="flex flex-row space-x-2">
           <img class="flex h-8 md:h-12 sm:h-16" src="@/assets/herodaologo.svg">
           <img class="flex h-3 mt-3 md:mt-3 md:h-6 sm:h-6 sm:mt-5" src="@/assets/herodaoname.svg">

@@ -1,5 +1,5 @@
 <template>
-  <div class="sm:h-112 md:h-112 h-72">
+  <div class="sm:h-112 md:h-112 h-72 overflow-y-scroll">
     <div class="flex flex-row justify-evenly">
     <div class="flex flex-col sm:pt-24 pt-8 sm:space-y-4 space-y-2">
       <div class="flex justify-center">
