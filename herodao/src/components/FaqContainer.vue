@@ -1,18 +1,5 @@
 <template>
   <div class="flex flex-col bg-herodao-red mt-4 pt-4 pb-8">
-<!--    <div class="flex">-->
-<!--      <img class="absolute sm:h-140 md:h-112 h-112 left-0 my-auto opacity-70" src="@/assets/dotsleft.svg">-->
-<!--    </div>-->
-<!--    <div class="flex">-->
-<!--      <img class="absolute sm:h-140 md:h-112 h-112 right-0 my-auto opacity-70" src="@/assets/dots.svg">-->
-<!--    </div>-->
-<!--    <div class="flex">-->
-<!--      <img class="absolute md:-bottom-170 sm:h-140 md:h-112 md:bottom-0 h-112 left-0 my-auto opacity-70"-->
-<!--           src="@/assets/dotsleft.svg">-->
-<!--    </div>-->
-<!--    <div class="flex">-->
-<!--      <img class="absolute md:-bottom-170 sm:h-140 md:h-112 h-112 right-0 my-auto opacity-70" src="@/assets/dots.svg">-->
-<!--    </div>-->
     <div class="absolute right-0 object-contain">
       <img class="opacity-40" src="@/assets/dots.svg">
     </div>
