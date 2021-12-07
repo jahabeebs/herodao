@@ -1,5 +1,5 @@
 <template>
-  <div class="flex bg-herodao-gold justify-center h-auto">
+  <div class="flex bg-herodao-gold justify-center h-auto overflow-hidden">
     <div class="flex flex-row space-x-2 md:space-x-16 sm:space-x-28">
       <div class="mb-2 sm:ml-56 md:ml-16 ml-4 mt-4 md:mt-4 sm:mt-10 space-y-1">
         <div class="flex flex-row space-x-2">

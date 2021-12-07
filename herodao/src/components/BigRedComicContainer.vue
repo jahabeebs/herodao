@@ -8,7 +8,7 @@
           <img class="absolute h-6 top-56 left-6 sm:h-14 sm:top-96 sm:left-20" src="@/assets/joinourdiscord.svg">
         </a>
         <div class="pl-44 md:pl-132 sm:pl-108 z-50 opacity-100">
-          <img src="@/assets/letsbuildacomic.svg">
+          <img src="@/assets/letsbuildacomic.png">
         </div>
     </div>
 </template>

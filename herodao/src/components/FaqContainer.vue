@@ -1,9 +1,9 @@
 <template>
   <div class="flex flex-col bg-herodao-red mt-4 pt-4 pb-8">
-    <div class="absolute right-0 object-contain pointer-events-none">
+    <div class="absolute right-0 overflow-hidden object-contain pointer-events-none">
       <img class="opacity-40 pointer-events-none" src="@/assets/dots.svg">
     </div>
-    <div class="absolute left-0 object-contain pointer-events-none">
+    <div class="absolute left-0 overflow-hidden object-contain pointer-events-none">
       <img class="opacity-40 pointer-events-none" src="@/assets/dotsleft.svg">
     </div>
     <div class="flex flex-col space-y-2 space-x-2 mx-auto">
