@@ -1,5 +1,7 @@
 <template>
+  <div class="h-full">
   <LandingPage/>
+  </div>
 </template>
 
 <script>
