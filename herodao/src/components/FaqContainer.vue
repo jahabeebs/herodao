@@ -1,5 +1,5 @@
 <template>
-  <div class="flex flex-col bg-herodao-red mt-4 pt-4 pb-8">
+  <div class="flex flex-col bg-herodao-red mt-4 pt-4 pb-8 overflow-hidden">
     <div class="absolute right-0 overflow-hidden object-contain pointer-events-none">
       <img class="opacity-40 pointer-events-none" src="@/assets/dots.svg">
     </div>

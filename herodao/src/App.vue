@@ -1,7 +1,5 @@
 <template>
-  <div class="h-full">
   <LandingPage/>
-  </div>
 </template>
 
 <script>
@@ -23,5 +21,9 @@ export default {
   text-align: center;
   color: #2c3e50;
   margin-top: 60px;
+  overflow-x: hidden;
+  overflow-y: hidden;
+  width: 100%;
+  height: 100%;
 }
 </style>

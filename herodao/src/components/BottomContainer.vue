@@ -15,8 +15,8 @@
         <div>
           <a @click="setShow" href="https://discord.gg/YeZjTvdWBt">
             <img v-if="!active" class="h-6 sm:h-8 hover:shadow-lg" src="@/assets/joinourdiscord.svg">
-            <img v-if="active" class="h-6 sm:h-8 hover:shadow-lg" src="@/assets/joinourdiscordnoshadow.png">
           </a>
+            <img v-if="active" class="h-6 sm:h-8 hover:shadow-lg" src="@/assets/joinourdiscordnoshadow.png">
         </div>
       </div>
       <div class="flex flex-col pr-1 text-xxs sm:text-sm mt-2 md:mt-6 sm:mt-4">
