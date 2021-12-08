@@ -8,9 +8,9 @@
     <a @click="setShow" href="https://discord.gg/YeZjTvdWBt">
       <img v-if="!active" class="absolute hover:shadow-xl h-6 top-56 left-6 sm:h-14 sm:top-96 sm:left-20"
            src="@/assets/joinourdiscord.svg">
-    </a>
       <img v-if="active" class="absolute bg-transparent h-6 top-56 left-6 sm:h-14 sm:top-96 sm:left-19"
            src="@/assets/joinourdiscordnoshadow.png">
+    </a>
     <div class="flex pointer-events-none justify-right">
       <div class="pl-44 md:pl-132 sm:pl-108 z-50 opacity-100">
         <img src="@/assets/letsbuildacomic.png">
@@ -34,7 +34,7 @@ export default {
       this.active = true;
       setTimeout(() => {
         this.show = true;
-      }, 6000);
+      }, 2000);
     }
   }
 }
