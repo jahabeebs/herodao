@@ -71,7 +71,7 @@ export default {
       this.active = true;
       setTimeout(() => {
         this.show = true;
-      }, 2000);
+      }, 6000);
     }
   }
 }
